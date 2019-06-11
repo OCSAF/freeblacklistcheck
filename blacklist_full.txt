@@ -1,7 +1,6 @@
 9.9.9.9
 access.redhawk.org
 b.barracudacentral.org
-blackholes.five-ten-sg.com
 blackholes.wirehub.net
 blacklist.sci.kun.nl
 blacklist.woody.ch
