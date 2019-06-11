@@ -99,7 +99,7 @@ fi
 
 #Check if opt_arg1 is set
 if [ "${opt_arg1}" == "" ]; then
-	echo "**No argument set - requires domain (-d), ip (-i) or url (-u)**"
+	echo "**No argument set - requires ip (-i) or url (-u)**"
 	echo ""
 	usage
 	exit 1
