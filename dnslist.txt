@@ -1,0 +1,3 @@
+9.9.9.9;;Quad9
+8.26.56.26;;Comodo Secure
+8.8.8.8;;Google
